@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6C65A34B205406D800F122CC /* ViewController11.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C65A34A205406D800F122CC /* ViewController11.m */; };
 		6C6C07121F18597F002BA242 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C6C07111F18597F002BA242 /* main.m */; };
 		6C6C07151F18597F002BA242 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C6C07141F18597F002BA242 /* AppDelegate.m */; };
 		6C6C07181F18597F002BA242 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C6C07171F18597F002BA242 /* ViewController.m */; };
@@ -42,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6C65A349205406D800F122CC /* ViewController11.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController11.h; sourceTree = "<group>"; };
+		6C65A34A205406D800F122CC /* ViewController11.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController11.m; sourceTree = "<group>"; };
 		6C6C070D1F18597F002BA242 /* SelectedWord_Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SelectedWord_Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C6C07111F18597F002BA242 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		6C6C07131F18597F002BA242 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -120,6 +123,8 @@
 		6C6C070F1F18597F002BA242 /* SelectedWord_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				6C65A349205406D800F122CC /* ViewController11.h */,
+				6C65A34A205406D800F122CC /* ViewController11.m */,
 				6C6C07131F18597F002BA242 /* AppDelegate.h */,
 				6C6C07141F18597F002BA242 /* AppDelegate.m */,
 				6C6C07161F18597F002BA242 /* ViewController.h */,
@@ -314,6 +319,7 @@
 				6C6C07151F18597F002BA242 /* AppDelegate.m in Sources */,
 				6C6C07481F18670B002BA242 /* ReadParser.m in Sources */,
 				6C6C07121F18597F002BA242 /* main.m in Sources */,
+				6C65A34B205406D800F122CC /* ViewController11.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
