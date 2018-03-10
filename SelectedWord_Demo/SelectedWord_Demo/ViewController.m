@@ -18,7 +18,7 @@
 // 文本视图
 @property (nonatomic, strong) ReadView *readView;
 
-
+// nothing
 @end
 
 @implementation ViewController
